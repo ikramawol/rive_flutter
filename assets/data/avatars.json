@@ -1,0 +1,72 @@
+{
+  "avatars": {
+    "fitness": {
+      "name": "Fitness Enthusiast",
+      "description": "Perfect for users focused on health and fitness goals",
+      "image": "assets/images/avatar_fitness.png",
+      "color": "#FF6B6B"
+    },
+    "tech": {
+      "name": "Tech Explorer",
+      "description": "Ideal for users interested in technology and learning",
+      "image": "assets/images/avatar_tech.png",
+      "color": "#4ECDC4"
+    },
+    "creative": {
+      "name": "Creative Soul",
+      "description": "For users passionate about art, music, and creativity",
+      "image": "assets/images/avatar_creative.png",
+      "color": "#45B7D1"
+    },
+    "travel": {
+      "name": "Adventure Seeker",
+      "description": "Perfect for travel enthusiasts and explorers",
+      "image": "assets/images/avatar_travel.png",
+      "color": "#96CEB4"
+    },
+    "love": {
+      "name": "Relationship Builder",
+      "description": "For users focused on love and meaningful connections",
+      "image": "assets/images/avatar_love.png",
+      "color": "#FFEAA7"
+    },
+    "default": {
+      "name": "Journey Starter",
+      "description": "Default avatar for new users",
+      "image": "assets/images/avatar_default.png",
+      "color": "#6C5CE7"
+    }
+  },
+  "messages": {
+    "fitness": [
+      "Your fitness journey starts now!",
+      "Ready to crush your fitness goals?",
+      "Let's build a healthier, stronger you!"
+    ],
+    "tech": [
+      "Your coding adventure awaits!",
+      "Ready to learn and grow with technology?",
+      "Let's unlock your tech potential!"
+    ],
+    "creative": [
+      "Your creative journey begins!",
+      "Ready to express your artistic side?",
+      "Let's unleash your creativity!"
+    ],
+    "travel": [
+      "Your adventure starts here!",
+      "Ready to explore the world?",
+      "Let's discover amazing places together!"
+    ],
+    "love": [
+      "Your path to love begins!",
+      "Ready to find meaningful connections?",
+      "Let's open your heart to new possibilities!"
+    ],
+    "default": [
+      "Welcome to your personalized journey!",
+      "Ready to achieve your goals?",
+      "Let's make your dreams a reality!"
+    ]
+  }
+} 
